@@ -1,3 +1,7 @@
+Live website for this Project ~ https://bugdetection-lkgd2app3u2pfb4ydapp9ul8.streamlit.app/ 
+
+And if you want to manually try the project out then >
+
 Steps to Test the Bug Detection and Fixing Model Locally
 
 1. Install the repo files to a local folder
