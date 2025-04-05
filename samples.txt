@@ -1,0 +1,23 @@
+# Sample 1 - SyntaxError
+print(Hello World)
+
+# Sample 2 - IndentationError
+for i in range(5)
+print(i)
+
+# Sample 3 - ZeroDivisionError
+x = 10 / 0
+
+# Sample 4 - IndexError
+arr = [1, 2, 3]
+print(arr[5])
+
+# Sample 5 - KeyError
+my_dict = {'a': 1}
+print(my_dict['b'])
+
+# Sample 6 - NameError
+total = price * quantity
+
+# Sample 7 - TypeError
+x = 5 + '3'
